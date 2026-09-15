@@ -2,6 +2,14 @@
 
 给任何视频叠加 **噪点 + 像素化 + 高对比度 + 扫描线 + 晕影 + 闪烁 + 色差**，一键生成 VHS/80s/街机/恐怖片 风格的复古视频。
 
+## Demo
+
+Example generated from a programmatically created test clip using the project's VHS preset. No third-party media is used.
+
+| Original | VHS preset |
+| --- | --- |
+| ![Programmatically generated original test frame](assets/demo_original.png) | ![VHS-processed test frame](assets/demo_vhs.png) |
+
 ## 安装
 
 ```bash
